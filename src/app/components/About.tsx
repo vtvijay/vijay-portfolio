@@ -13,8 +13,7 @@ export default function About() {
         who is passionate about full-stack development and building
         real-world projects.
 
-        I enjoy learning how systems work internally instead of
-        blindly copy-pasting code. My goal is to become a strong
+        I enjoy learning how systems work internally. My goal is to become a strong
         developer by understanding frontend, backend, databases,
         and software architecture deeply.
       </p>
@@ -36,7 +35,7 @@ export default function About() {
           </h3>
 
           <p className="mt-3 text-gray-400">
-            Node.js, Express.js, APIs, authentication, databases.
+            Node.js, databases.
           </p>
         </div>
 
